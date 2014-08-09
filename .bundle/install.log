@@ -1,0 +1,18 @@
+# Logfile created on 2014-08-09 21:12:04 +0300 by logger.rb/41954
+I, [2014-08-09T21:12:04.660855 #58692]  INFO -- : 0:  json (1.8.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-08-09T21:12:04.661917 #58692]  INFO -- : 0:  multi_xml (0.5.5) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/multi_xml-0.5.5.gemspec
+I, [2014-08-09T21:12:04.662435 #58692]  INFO -- : 0:  httparty (0.13.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/httparty-0.13.1.gemspec
+I, [2014-08-09T21:12:04.662835 #58692]  INFO -- : 0:  rack (1.5.2) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-08-09T21:12:04.663168 #58692]  INFO -- : 0:  rack-protection (1.5.3) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.3.gemspec
+I, [2014-08-09T21:12:04.663467 #58692]  INFO -- : 0:  tilt (1.4.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-08-09T21:12:04.663758 #58692]  INFO -- : 0:  sinatra (1.4.5) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.5.gemspec
+I, [2014-08-09T21:12:04.664029 #58692]  INFO -- : 0:  bundler (1.5.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-08-09T21:15:59.219654 #58954]  INFO -- : 0:  json (1.8.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/json-1.8.1.gemspec
+I, [2014-08-09T21:15:59.220552 #58954]  INFO -- : 0:  multi_xml (0.5.5) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/multi_xml-0.5.5.gemspec
+I, [2014-08-09T21:15:59.220860 #58954]  INFO -- : 0:  httparty (0.13.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/httparty-0.13.1.gemspec
+I, [2014-08-09T21:15:59.221116 #58954]  INFO -- : 0:  rack (1.5.2) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/rack-1.5.2.gemspec
+I, [2014-08-09T21:15:59.221363 #58954]  INFO -- : 0:  rack-protection (1.5.3) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/rack-protection-1.5.3.gemspec
+I, [2014-08-09T21:15:59.221615 #58954]  INFO -- : 0:  tilt (1.4.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/tilt-1.4.1.gemspec
+I, [2014-08-09T21:15:59.221971 #58954]  INFO -- : 0:  sinatra (1.4.5) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/specifications/sinatra-1.4.5.gemspec
+I, [2014-08-09T21:15:59.239562 #58954]  INFO -- : 0:  sinatra-cross_origin (0.3.2) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353/bundler/gems/sinatra-cross_origin-116d6c5e9f0b/sinatra-cross_origin.gemspec
+I, [2014-08-09T21:15:59.239931 #58954]  INFO -- : 0:  bundler (1.5.1) from /Users/eladmeidar/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
