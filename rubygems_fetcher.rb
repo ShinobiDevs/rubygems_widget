@@ -6,6 +6,10 @@ class RubygemsFetcher < Sinatra::Base
     headers['Access-Control-Allow-Headers'] ="accept, authorization, origin, content-type"
   end
 
+  get "/rubygems.js" do
+    File.read('rubygems.js')
+  end
+
   get "/:gem_name" do
     headers['Access-Control-Allow-Origin'] = "*"
     headers['Access-Control-Allow-Methods'] = "*"
