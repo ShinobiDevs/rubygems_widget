@@ -1,10 +1,5 @@
-GIT
-  remote: https://github.com/britg/sinatra-cross_origin.git
-  revision: 116d6c5e9f0b02fefc0a2b116a3e8f807d6f2253
-  specs:
-    sinatra-cross_origin (0.3.2)
-
 GEM
+  remote: https://rubygems.org/
   specs:
     httparty (0.13.1)
       json (~> 1.8)
@@ -26,4 +21,3 @@ PLATFORMS
 DEPENDENCIES
   httparty
   sinatra
-  sinatra-cross_origin!
