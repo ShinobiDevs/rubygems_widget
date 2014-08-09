@@ -1,7 +1,7 @@
 var Rubygems = {
   fetch: function(gem_name) {
     var _bm_request = new XMLHttpRequest();
-    _bm_request.open("GET", "http://localhost:9292/" + gem_name + ".json");
+    _bm_request.open("GET", "http://rubygemscounter.herokuapp.com/" + gem_name + ".json");
     _bm_request.setRequestHeader('Content-Type', 'application/json');
     _bm_request.onreadystatechange = function() {
       if (_bm_request.readyState == 4) {
